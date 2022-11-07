@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BoningtonChen
-- 👀 I’m interested in C++, and so...
-- 🌱 I’m currently learning C++ ADVANCED DEV and Front-end ADVANCED COURSES...
+- 👀 I’m interested in C++, Front-end and so...
+- 🌱 I’m currently using mainly C++ to build open-source projects like Game Engines and so..
+- 🥰 I now have a C++ Game Engine "FUNTAL" and a Static Website "Bonity",welcome to join me and build with me!
 - 💞️ I’m looking to collaborate on ...(No collaboration intention CURRENTLY. :D)
 - 📫 How to reach me ...(Personal MAILBOX:yikun.chen@163.com)
 
