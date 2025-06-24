@@ -1,3 +1,4 @@
+![Free Palestine](https://freepalestinemovement.org/wp-content/uploads/2013/06/banner.jpg)
 - 👋 Hi, I’m @BoningtonChen
 - 👀 I’m interested in C++, Rust and AGIs.
 - 🌱 I’m currently using mainly C++ and Rust to do some demos. I'm now involved in the development of Open-Source AGI Tools.
