@@ -1,8 +1,8 @@
 <img alt="Free Palestine" src="./resources/fbm_banner.jpg">
 
-
-# <p align="center">Bonjour👋 <img alt="Welcome" src="https://img.shields.io/badge/Welcome_to-My_GitHub_Profile-181717?logo=github&logoSize=auto" /></p>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+NF+CN&weight=800&duration=4200&pause=800&color=FF770F&center=true&vCenter=true&random=true&width=435&lines=Bonjour%F0%9F%91%8B;%F0%9F%92%A1Apportez+de+la+Cr%C3%A9ativit%C3%A9" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
     <b> 
