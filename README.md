@@ -3,11 +3,13 @@
 # Bonjour👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=Cle2ment&show_icons=true&theme=transparent&hide=stars&show=prs_merged_percentage" />
+  <img height=225 align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cle2ment&layout=donut&theme=transparent" />
+  <img height=225 align="center" src="./profile/top-langs.svg" />
 </a>
+
+💻 Algorithm Developer
 
 - 👋 Hi, I’m @BoningtonChen
 - 👀 I’m interested in C++, Rust and AGIs.
