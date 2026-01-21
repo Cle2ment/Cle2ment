@@ -1,4 +1,14 @@
 ![Free Palestine](https://freepalestinemovement.org/wp-content/uploads/2013/06/banner.jpg)
+
+# Bonjour👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=Cle2ment&show_icons=true&theme=transparent&hide=stars&show=prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cle2ment&layout=donut&theme=transparent" />
+</a>
+
 - 👋 Hi, I’m @BoningtonChen
 - 👀 I’m interested in C++, Rust and AGIs.
 - 🌱 I’m currently using mainly C++ and Rust to do some algorithms and meanwhile doing frontend works for an AI Client.
