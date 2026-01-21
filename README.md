@@ -67,6 +67,12 @@
     <img alt="stm" height=32 src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoSize=auto&logoColor=white" />
 </div>
 
+
+## Connect
+- 📫 For Research Cooperation & Develop Contact: yikun.chen@njust.edu.cn
+- 💾 Open Source Entrance: https://github.com/Cle2ment
+
+
 ## Activities
 
 [![Cle2ment's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
