@@ -69,7 +69,6 @@
     <img alt="cad" height=32 src="https://img.shields.io/badge/CAD-E51050?style=flat&logo=autocad&logoSize=auto&logoColor=white" />
     <img alt="eda" height=32 src="https://img.shields.io/badge/EDA-1765F6?style=flat&logo=easyeda&logoSize=auto&logoColor=white" />
 </div>
-<br />
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="arduino" height=32 src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoSize=auto&logoColor=white" />
     <img alt="keil" height=32 src="https://img.shields.io/badge/Keil-394049?style=flat&logo=armkeil&logoSize=auto&logoColor=white" />
