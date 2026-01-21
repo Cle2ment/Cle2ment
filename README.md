@@ -11,7 +11,7 @@
 </p>
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; gap: 20px;">
     <img alt="Status" height=188 src="./profile/stats.svg" />
     <img alt="Top Languages" height=188 src="./profile/top-langs.svg" />
 </div>
