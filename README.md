@@ -47,8 +47,11 @@
     <img alt="tailwindcss" height=32 src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoSize=auto&logoColor=white" />
 </div>
 
-### Analysis
+### Academic
 
+<div style="display: flex; justify-content: left; gap: 8px;">
+    <img alt="latex" height=32 src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoSize=auto&logoColor=white" />
+</div>
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="conda" height=32 src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoSize=auto&logoColor=white" />
     <img alt="cuda" height=32 src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoSize=auto&logoColor=white" />
