@@ -80,4 +80,11 @@
 <!---
 BoningtonChen/BoningtonChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Powered by:
+    Readme Typing SVG
+    Shields.io
+    Simple-Icons
+    GitHub Readme Stats
+    GitHub Readme Activity Graph
 --->
