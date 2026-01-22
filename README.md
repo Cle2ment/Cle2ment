@@ -39,11 +39,17 @@
     <img alt="rust" height=32 src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoSize=auto&logoColor=white" />
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
+    <img alt="opengl" height=32 src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoSize=auto&logoColor=white" />
+    <img alt="vulkan" height=32 src="https://img.shields.io/badge/Vulkan-A41E22?style=flat&logo=vulkan&logoSize=auto&logoColor=white" />
+</div>
+<div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="python" height=32 src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoSize=auto&logoColor=white" />
     <img alt="lua" height=32 src="https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoSize=auto&logoColor=white" />
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
-    <img alt="typescript" height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoSize=auto&logoColor=white" />
+    <img alt="mysql" height=32 src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoSize=auto&logoColor=white" />
+</div>
+<div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="tailwindcss" height=32 src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoSize=auto&logoColor=white" />
 </div>
 
