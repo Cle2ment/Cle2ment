@@ -18,7 +18,7 @@
 
 
 ## About me
-- 🏫 University Undergraduate  <img alt="University" src="https://img.shields.io/badge/École-ENI-8F1D74" />
+- 🏫 University Undergraduate  <img alt="University" src="https://img.shields.io/badge/École-ENI-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
 - 🐕‍🦺 Certified outstanding Community Volunteer
 - 🧑‍🏫 University Peer academic mentor
 - 📷 Amateur Photographer
