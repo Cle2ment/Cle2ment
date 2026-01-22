@@ -6,7 +6,7 @@
 
 <p align="center">
     <b> 
-        Undergraduate / 💻 Hardware Engineer / 🔬 Junior Researcher / 🎥 Weekend Photographer 
+        🧑‍🎓 University Undergraduate / 💻 Hardware Engineer / 🔬 Junior Researcher / 🎥 Weekend Photographer 
     </b>
 </p>
 
