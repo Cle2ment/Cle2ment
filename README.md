@@ -61,7 +61,7 @@
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="conda" height=32 src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoSize=auto&logoColor=white" />
     <img alt="cuda" height=32 src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoSize=auto&logoColor=white" />
-    <img alt="r" height=32 src="https://img.shields.io/badge/Data_Science-276DC3?style=flat&logo=r&logoSize=auto&logoColor=white" />
+    <img alt="numpy" height=32 src="https://img.shields.io/badge/Data_Science-013243?style=flat&logo=numpy&logoSize=auto&logoColor=white" />
 </div>
 
 ### Hardware
