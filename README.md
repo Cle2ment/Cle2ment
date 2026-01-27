@@ -21,8 +21,8 @@
 - 🏫 University Undergraduate  <img alt="University" src="https://img.shields.io/badge/École-ENI-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
 - 🐕‍🦺 Certified Outstanding Community Volunteer
 - 🧑‍🏫 University Peer Academic Mentor
-- 📷 Amateur Photographer
-- ✈️ Sparetime UAV Pilot  <img alt="DJI" src="https://img.shields.io/badge/Drone-DJI-000000?style=flat&logo=dji&logoSize=auto" />
+- 📷 Amateur Photographer <img alt="Nikon" src="https://img.shields.io/badge/Camera-Nikon-FFE100?style=flat&logo=nikon&logoSize=auto&logoColor=white" />
+- ✈️ Sparetime UAV Pilot  <img alt="DJI" src="https://img.shields.io/badge/Drone-DJI-000000?style=flat&logo=dji&logoSize=auto&logoColor=white" />
 - 🪂 Sports Enthusiast
 
 
