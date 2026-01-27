@@ -19,8 +19,8 @@
 
 ## About me
 - 🏫 University Undergraduate  <img alt="University" src="https://img.shields.io/badge/École-ENI-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
-- 🐕‍🦺 Certified outstanding Community Volunteer
-- 🧑‍🏫 University Peer academic mentor
+- 🐕‍🦺 Certified Outstanding Community Volunteer
+- 🧑‍🏫 University Peer Academic Mentor
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot  <img alt="DJI" src="https://img.shields.io/badge/Drone-DJI-000000?style=flat&logo=dji&logoSize=auto" />
 - 🪂 Sports Enthusiast
