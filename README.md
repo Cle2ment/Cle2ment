@@ -6,7 +6,7 @@
 
 <p align="center">
     <b> 
-        🧑‍🎓 University Undergraduate / 💻 Hardware Engineer / 🔬 Junior Researcher / 🎥 Weekend Photographer 
+        🧑‍🎓 University Undergraduate / 💻 Open Source Developer / 🔬 Junior Researcher / 🎥 Weekend Photographer 
     </b>
 </p>
 
@@ -18,8 +18,10 @@
 
 
 ## About me
-- 🏫 University Undergraduate  <img alt="University" src="https://img.shields.io/badge/École-ENI--NJUST-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
+- 🏫 University Undergraduate in ME <img alt="University" src="https://img.shields.io/badge/École-ENI--NJUST-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
 - 🐕‍🦺 Certified Outstanding Community Volunteer
+- 🔬 Junior Researcher in ME & IME
+- 💻 Open Source Developer & Maintainer
 - 🧑‍🏫 University Peer Academic Mentor
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
