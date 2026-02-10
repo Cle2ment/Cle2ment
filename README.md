@@ -6,7 +6,7 @@
 
 <p align="center">
     <b> 
-        🧑‍🎓 University Undergraduate / 💻 Open Source Developer / 🔬 Junior Researcher / 🎥 Weekend Photographer 
+        🧑‍🎓 University Undergraduate / 💻 Open Source Developer / 🔬 Junior Researcher / 🎥 Weekend Photographer
     </b>
 </p>
 
