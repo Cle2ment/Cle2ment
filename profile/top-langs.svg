@@ -126,35 +126,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 56.37%
+        Python 60.97%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 24.26%
+        TeX 21.43%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 8.13%
+        CSS 7.18%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 5.97%
+        PowerShell 5.27%
       </text>
     </g>
   </g><g transform="translate(0, 128)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 5.26%
+        TypeScript 5.15%
       </text>
     </g>
   </g>
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="56.38"
-          d="M 94.55437222808686 168.84096633396132 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="60.97"
+          d="M 80.62833975219743 160.39709205125394 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#3572A5"
           fill="none"
           stroke-width="12">
@@ -176,8 +176,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="24.26"
-          d="M 63.52099967324097 97.00326942877786 A 56.66666666666667 56.66666666666667 0 0 0 94.55437222808686 168.84096633396132"
+          size="21.43"
+          d="M 66.01565263142838 91.25828442156485 A 56.66666666666667 56.66666666666667 0 0 0 80.62833975219743 160.39709205125394"
           stroke="#3D6117"
           fill="none"
           stroke-width="12">
@@ -187,8 +187,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="8.13"
-          d="M 79.91878771613293 73.53078248947574 A 56.66666666666667 56.66666666666667 0 0 0 63.52099967324097 97.00326942877786"
+          size="7.18"
+          d="M 82.16077073918171 71.7172032955352 A 56.66666666666667 56.66666666666667 0 0 0 66.01565263142838 91.25828442156485"
           stroke="#663399"
           fill="none"
           stroke-width="12">
@@ -198,8 +198,8 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="5.97"
-          d="M 98.27766482630267 63.06670656942218 A 56.66666666666667 56.66666666666667 0 0 0 79.91878771613293 73.53078248947574"
+          size="5.27"
+          d="M 98.64855741616336 62.940892124571526 A 56.66666666666667 56.66666666666667 0 0 0 82.16077073918171 71.7172032955352"
           stroke="#012456"
           fill="none"
           stroke-width="12">
@@ -209,9 +209,9 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="5.26"
-          d="M 116.66666666666671 60 A 56.66666666666667 56.66666666666667 0 0 0 98.27766482630267 63.06670656942218"
-          stroke="#dea584"
+          size="5.15"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 98.64855741616336 62.940892124571526"
+          stroke="#3178c6"
           fill="none"
           stroke-width="12">
         </path>
