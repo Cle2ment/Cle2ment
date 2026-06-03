@@ -16,6 +16,14 @@
     <img alt="Top Languages" height=188 src="./profile/top-langs.svg" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cle2ment/Cle2ment/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cle2ment/Cle2ment/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cle2ment/Cle2ment/output/github-snake.svg" />
+  </picture>
+</div>
+
 
 ## About me
 - 🏫 University Undergraduate in ME <img alt="University" src="https://img.shields.io/badge/École-ENI--NJUST-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
