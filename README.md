@@ -55,7 +55,7 @@
     <img alt="ispc" height=32 src="https://img.shields.io/badge/ISPC-0071C5?style=flat&logo=intel&logoSize=auto&logoColor=white" />
 </div>
 
-### 🔬 Academic
+### 🔬 Research
 
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="latex" height=32 src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoSize=auto&logoColor=white" />
