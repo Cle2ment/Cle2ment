@@ -126,35 +126,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 49.14%
+        Python 45.63%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 18.58%
+        C++ 17.11%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 17.09%
+        TeX 15.74%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#3A4E3A" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cuda 8.98%
+        JavaScript 13.26%
       </text>
     </g>
   </g><g transform="translate(0, 128)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#2D68B1" />
+      <circle cx="5" cy="6" r="5" fill="#3A4E3A" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ISPC 6.21%
+        Cuda 8.27%
       </text>
     </g>
   </g>
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="49.14"
-          d="M 119.7271824377501 173.2506251206849 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          size="45.63"
+          d="M 132.03115742721516 171.2106263210604 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
           stroke="#3572A5"
           fill="none"
           stroke-width="12">
@@ -176,8 +176,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="18.58"
-          d="M 65.82551947869305 141.6924306654323 A 56.66666666666667 56.66666666666667 0 0 0 119.7271824377501 173.2506251206849"
+          size="17.11"
+          d="M 75.99762893575974 156.1272860377964 A 56.66666666666667 56.66666666666667 0 0 0 132.03115742721516 171.2106263210604"
           stroke="#f34b7d"
           fill="none"
           stroke-width="12">
@@ -187,8 +187,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="17.09"
-          d="M 70.42801590171354 83.90848774066697 A 56.66666666666667 56.66666666666667 0 0 0 65.82551947869305 141.6924306654323"
+          size="15.74"
+          d="M 61.349226635585346 104.3747205425237 A 56.66666666666667 56.66666666666667 0 0 0 75.99762893575974 156.1272860377964"
           stroke="#3D6117"
           fill="none"
           stroke-width="12">
@@ -198,9 +198,9 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="8.98"
-          d="M 95.11291839205772 64.2591572197763 A 56.66666666666667 56.66666666666667 0 0 0 70.42801590171354 83.90848774066697"
-          stroke="#3A4E3A"
+          size="13.26"
+          d="M 88.55975362048659 67.46186456234372 A 56.66666666666667 56.66666666666667 0 0 0 61.349226635585346 104.3747205425237"
+          stroke="#f1e05a"
           fill="none"
           stroke-width="12">
         </path>
@@ -209,9 +209,9 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="6.21"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 95.11291839205772 64.2591572197763"
-          stroke="#2D68B1"
+          size="8.27"
+          d="M 116.70227138106466 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 88.55975362048659 67.46186456234372"
+          stroke="#3A4E3A"
           fill="none"
           stroke-width="12">
         </path>
