@@ -48,7 +48,7 @@
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="python" height=32 src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoSize=auto&logoColor=white" />
     <img alt="typescript" height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoSize=auto&logoColor=white" />
-    <img alt="tailwindcss" height=32 src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoSize=auto&logoColor=white" />
+    <img alt="javascript" height=32 src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoSize=auto&logoColor=white" />
     <img alt="lua" height=32 src="https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoSize=auto&logoColor=white" />
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
