@@ -47,16 +47,28 @@
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="python" height=32 src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoSize=auto&logoColor=white" />
+    <img alt="typescript" height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoSize=auto&logoColor=white" />
+    <img alt="tailwindcss" height=32 src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoSize=auto&logoColor=white" />
     <img alt="lua" height=32 src="https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoSize=auto&logoColor=white" />
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
-    <img alt="vulkan" height=32 src="https://img.shields.io/badge/Vulkan-A41E22?style=flat&logo=vulkan&logoSize=auto&logoColor=white" />
     <img alt="cuda" height=32 src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoSize=auto&logoColor=white" />
+    <img alt="vulkan" height=32 src="https://img.shields.io/badge/Vulkan-A41E22?style=flat&logo=vulkan&logoSize=auto&logoColor=white" />
     <img alt="ispc" height=32 src="https://img.shields.io/badge/ISPC-0071C5?style=flat&logo=intel&logoSize=auto&logoColor=white" />
+</div>
+<div style="display: flex; justify-content: left; gap: 8px;">
+    <img alt="opencode" height=32 src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoSize=auto&logoColor=white" />
+    <img alt="neovim" height=32 src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoSize=auto&logoColor=white" />
+</div>
+<div style="display: flex; justify-content: left; gap: 8px;">
+    <img alt="deepseek" height=32 src="https://img.shields.io/badge/DeepSeek-5786FE?style=flat&logo=deepseek&logoSize=auto&logoColor=white" />
 </div>
 
 ### 🔬 Research
 
+<div style="display: flex; justify-content: left; gap: 8px;">
+    <img alt="zotero" height=32 src="https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoSize=auto&logoColor=white" />
+</div>
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="latex" height=32 src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoSize=auto&logoColor=white" />
     <img alt="typst" height=32 src="https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoSize=auto&logoColor=white" />
