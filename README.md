@@ -4,19 +4,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+NF+CN&weight=900&size=24&duration=4200&pause=800&color=FF770F&center=true&vCenter=true&random=true&width=435&lines=Bonjour%F0%9F%91%8B;%F0%9F%92%A1Apportez+de+la+Cr%C3%A9ativit%C3%A9" alt="Typing SVG" /></a>
 </div>
 
+
+<div align="center" style="display: flex; gap: 8px;">
+    <img alt="dancing-snoopy" height=64 src="./resources/dancing-snoopy.gif" />
+    <img alt="dancing-snoopy" height=64 src="./resources/checking-out-the-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=64 src="./resources/giving-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=64 src="./resources/snoopy-woodstock-christmas.gif" />
+    <img alt="dancing-snoopy" height=64 src="./resources/beer-snoopy.gif" />
+</div>
+
+
 <p align="center">
     <b> 
         🧑‍🎓 University Undergraduate / 💻 Open Source Developer / 🔬 Junior Researcher / 🎥 Weekend Photographer
     </b>
 </p>
 
-<div align="center" style="display: flex; gap: 8px;">
-    <img alt="dancing-snoopy" height=68 src="./resources/dancing-snoopy.gif" />
-    <img alt="dancing-snoopy" height=68 src="./resources/checking-out-the-gift-snoopy.gif" />
-    <img alt="dancing-snoopy" height=68 src="./resources/giving-gift-snoopy.gif" />
-    <img alt="dancing-snoopy" height=68 src="./resources/snoopy-woodstock-christmas.gif" />
-    <img alt="dancing-snoopy" height=68 src="./resources/beer-snoopy.gif" />
-</div>
 
 <div align="center" style="display: flex; gap: 20px;">
     <img alt="Status" height=188 src="./profile/stats.svg" />
