@@ -41,7 +41,7 @@
 - 🔬 Junior Researcher in ME & IME
 - 💻 Open Source Developer & Maintainer
 - 🧑‍🏫 University Peer Academic Mentor
-- 🎬 Snoopy Fans!
+- 🎬 Snoopy Fan!
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
 - 🪂 Sports Enthusiast
