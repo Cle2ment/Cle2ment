@@ -10,6 +10,13 @@
     </b>
 </p>
 
+<div align="center" style="display: flex; gap: 8px;">
+    <img alt="dancing-snoopy" height=128 src="./resources/dancing-snoopy.gif" />
+    <img alt="dancing-snoopy" height=88 src="./resources/checking-out-the-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=88 src="./resources/giving-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=88 src="./resources/snoopy-woodstock-christmas.gif" />
+    <img alt="dancing-snoopy" height=88 src="./resources/beer-snoopy.gif" />
+</div>
 
 <div align="center" style="display: flex; gap: 20px;">
     <img alt="Status" height=188 src="./profile/stats.svg" />
@@ -31,6 +38,7 @@
 - 🔬 Junior Researcher in ME & IME
 - 💻 Open Source Developer & Maintainer
 - 🧑‍🏫 University Peer Academic Mentor
+- 🎬 Snoopy Fans!
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
 - 🪂 Sports Enthusiast
