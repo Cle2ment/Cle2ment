@@ -5,7 +5,7 @@
 </div>
 
 
-<div align="center" style="display: flex; gap: 8px;">
+<div align="center" style="display: flex; gap: 16px;">
     <img alt="dancing-snoopy" height=64 src="./resources/dancing-snoopy.gif" />
     <img alt="dancing-snoopy" height=64 src="./resources/checking-out-the-gift-snoopy.gif" />
     <img alt="dancing-snoopy" height=64 src="./resources/giving-gift-snoopy.gif" />
