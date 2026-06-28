@@ -34,6 +34,28 @@
   </picture>
 </div>
 
+```rust
+use std::future::Future;
+use std::task::{Context, Poll, Waker};
+
+fn block_on<T>(f: impl Future<Output = T>) -> T {
+    let waker = Waker::noop();
+    let mut f = Box::pin(f);
+    match f.as_mut().poll(&mut Context::from_waker(&waker)) {
+        Poll::Ready(v) => v,
+        Poll::Pending => unreachable!(),
+    }
+}
+
+async fn hello() -> String {
+    "👋 Bienvenue sur ma page d'accueil~".into()
+}
+
+fn main() {
+    println!("{}", block_on(hello()));
+}
+```
+"👋 Bienvenue sur ma page d'accueil ~"
 
 ## About me
 - 🏫 University Undergraduate in ME <img alt="University" src="https://img.shields.io/badge/École-ENI--NJUST-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
