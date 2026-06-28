@@ -11,11 +11,11 @@
 </p>
 
 <div align="center" style="display: flex; gap: 8px;">
-    <img alt="dancing-snoopy" height=128 src="./resources/dancing-snoopy.gif" />
-    <img alt="dancing-snoopy" height=88 src="./resources/checking-out-the-gift-snoopy.gif" />
-    <img alt="dancing-snoopy" height=88 src="./resources/giving-gift-snoopy.gif" />
-    <img alt="dancing-snoopy" height=88 src="./resources/snoopy-woodstock-christmas.gif" />
-    <img alt="dancing-snoopy" height=88 src="./resources/beer-snoopy.gif" />
+    <img alt="dancing-snoopy" height=68 src="./resources/dancing-snoopy.gif" />
+    <img alt="dancing-snoopy" height=68 src="./resources/checking-out-the-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=68 src="./resources/giving-gift-snoopy.gif" />
+    <img alt="dancing-snoopy" height=68 src="./resources/snoopy-woodstock-christmas.gif" />
+    <img alt="dancing-snoopy" height=68 src="./resources/beer-snoopy.gif" />
 </div>
 
 <div align="center" style="display: flex; gap: 20px;">
