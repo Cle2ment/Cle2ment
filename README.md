@@ -48,17 +48,17 @@ fn block_on<T>(f: impl Future<Output = T>) -> T {
 }
 
 async fn hello() -> String {
-    "👋 Bienvenue sur ma page d'accueil~".into()
+    "👋 Bienvenue sur ma page d'accueil ~".into()
 }
 
 fn main() {
     println!("{}", block_on(hello()));
 }
 ```
-"👋 Bienvenue sur ma page d'accueil ~"
+*"👋 Bienvenue sur ma page d'accueil ~"*
 
 ## About me
-- 🏫 University Undergraduate in ME <img alt="University" src="https://img.shields.io/badge/École-ENI--NJUST-8F1D74?style=flat&logo=wikiversity&logoSize=auto&logoColor=white" />
+- 🏫 University Undergraduate in ME
 - 🐕‍🦺 Certified Outstanding Community Volunteer
 - 🔬 Junior Researcher in ME & IME
 - 💻 Open Source Developer & Maintainer
