@@ -21,7 +21,10 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&rank_icon=percentile&hide=stars&show=prs_merged_percentage&include_all_commits=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # stats card data requires a PAT with repo + read:user scopes;
+          # GITHUB_TOKEN is only sufficient for the top-langs card.
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +32,8 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
