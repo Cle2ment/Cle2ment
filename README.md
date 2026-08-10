@@ -118,7 +118,12 @@ fn main() {
 
 ## Activities
 
-[![Cle2ment's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-night" />
+    <img alt="Cle2ment's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-day" />
+  </picture>
+</a>
 
 <!---
 BoningtonChen/BoningtonChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
