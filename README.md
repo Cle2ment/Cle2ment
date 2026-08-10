@@ -120,8 +120,8 @@ fn main() {
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-night" />
-    <img alt="Cle2ment's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=tokyo-day" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=github-dark" />
+    <img alt="Cle2ment's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cle2ment&theme=github-light" />
   </picture>
 </a>
 
