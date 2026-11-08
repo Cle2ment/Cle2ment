@@ -58,7 +58,7 @@ fn main() {
 ## About me
 
 - 🏫 University Undergraduate in _Machanical Engineering_
-- 🐕‍🦺 Certified Outstanding Community Volunteer
+- 🐕‍🦺 Outstanding Individual in Youth Volunteer Service
 - 🔬 Junior Researcher in _Machanical Engineering_ & _Intelligent Manufacturing Engineering_
 - 💻 Open Source Developer & Maintainer
 - 🧑‍🏫 University Peer Academic Mentor
