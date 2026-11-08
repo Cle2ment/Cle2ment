@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+NF+CN&weight=900&size=24&duration=4200&pause=800&color=FF770F&center=true&vCenter=true&random=true&width=435&lines=Bonjour%F0%9F%91%8B;%F0%9F%92%A1Apportez+de+la+Cr%C3%A9ativit%C3%A9" alt="Typing SVG" /></a>
 </div>
 
-
 <div align="center" style="display: flex; gap: 16px;">
     <img alt="dancing-snoopy" height=64 src="./resources/dancing-snoopy.gif" />
     <img alt="dancing-snoopy" height=64 src="./resources/checking-out-the-gift-snoopy.gif" />
@@ -13,13 +12,11 @@
     <img alt="dancing-snoopy" height=64 src="./resources/beer-snoopy.gif" />
 </div>
 
-
 <p align="center">
     <b> 
         🧑‍🎓 University Undergraduate / 💻 Open Source Developer / 🔬 Junior Researcher / 🎥 Weekend Photographer
     </b>
 </p>
-
 
 <div align="center" style="display: flex; gap: 20px;">
     <img alt="Status" height=188 src="./profile/stats.svg" />
@@ -55,9 +52,11 @@ fn main() {
     println!("{}", block_on(hello()));
 }
 ```
-*"👋 Bienvenue sur ma page d'accueil ~"*
+
+> "👋 Bienvenue sur ma page d'accueil ~"
 
 ## About me
+
 - 🏫 University Undergraduate in ME
 - 🐕‍🦺 Certified Outstanding Community Volunteer
 - 🔬 Junior Researcher in ME & IME
@@ -67,7 +66,6 @@ fn main() {
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
 - 🪂 Sports Enthusiast
-
 
 ## Tech Stack
 
@@ -110,11 +108,10 @@ fn main() {
     <img alt="stm" height=32 src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoSize=auto&logoColor=white" />
 </div>
 
-
 ## Connect
+
 - 📫 For Research Cooperation & Develop Contact: yikun.chen@njust.edu.cn
 - 💾 Open Source Entrance: https://github.com/Cle2ment
-
 
 ## Activities
 
