@@ -55,7 +55,7 @@ fn main() {
 
 > _"👋 Bienvenue sur ma page d'accueil ~"_
 
-## About me
+## About ME
 
 - 🏫 University Undergraduate in _Machanical Engineering_
 - 🐕‍🦺 Outstanding Individual in Youth Volunteer Service
