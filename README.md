@@ -65,7 +65,7 @@ fn main() {
 - 🏡 Snoopy Fan!
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
-- 💡 Bronze Medalist of the Advantech® National AIoT Competition
+- 🥉 Bronze Medalist of the Advantech® National AIoT Competition
 
 ## Tech Stack
 
