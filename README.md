@@ -53,19 +53,19 @@ fn main() {
 }
 ```
 
-> "👋 Bienvenue sur ma page d'accueil ~"
+> _"👋 Bienvenue sur ma page d'accueil ~"_
 
 ## About me
 
-- 🏫 University Undergraduate in ME
+- 🏫 University Undergraduate in _Machanical Engineering_
 - 🐕‍🦺 Certified Outstanding Community Volunteer
-- 🔬 Junior Researcher in ME & IME
+- 🔬 Junior Researcher in _Machanical Engineering_ & _Intelligent Manufacturing Engineering_
 - 💻 Open Source Developer & Maintainer
 - 🧑‍🏫 University Peer Academic Mentor
 - 🏡 Snoopy Fan!
 - 📷 Amateur Photographer
 - ✈️ Sparetime UAV Pilot
-- 🪂 Sports Enthusiast
+- 💡 Bronze Medalist of the Advantech® National AIoT Competition
 
 ## Tech Stack
 
