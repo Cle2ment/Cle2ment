@@ -97,6 +97,7 @@ fn main() {
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="cad" height=32 src="https://img.shields.io/badge/CAD-E51050?style=flat&logo=autocad&logoSize=auto&logoColor=white" />
     <img alt="eda" height=32 src="https://img.shields.io/badge/EDA-1765F6?style=flat&logo=easyeda&logoSize=auto&logoColor=white" />
+    <img alt="3dprint" height=32 src="https://img.shields.io/badge/3D_Print-00AE42?style=flat&logo=bambulab&logoSize=auto&logoColor=white" />
 </div>
 <div style="display: flex; justify-content: left; gap: 8px;">
     <img alt="conda" height=32 src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoSize=auto&logoColor=white" />
